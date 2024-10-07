@@ -18,6 +18,9 @@ int main(){
     follow->next = nullptr;
     // link the two nodes
     head->next = follow;
+    // free memory
+    delete head;
+    delete follow;
 
     return 0;
 }	
