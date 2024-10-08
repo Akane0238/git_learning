@@ -1,0 +1,3 @@
+*.o
+ignore_direc/
+non_commit/

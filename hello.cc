@@ -5,6 +5,13 @@ struct node{
     int val;
 };
 
+bool empty(node* root){
+    if(root == nullptr){
+    	return true;
+    }
+    return false;
+}
+
 int main(){
     cout << "Hello world!" << endl;
     cout << "I gona build a linked list" << endl;
