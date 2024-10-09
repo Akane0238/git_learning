@@ -28,6 +28,6 @@ int main(){
     // free memory
     delete head;
     delete follow;
-    int b = 20;
+    int c = 233;
     return 0;
 }	
