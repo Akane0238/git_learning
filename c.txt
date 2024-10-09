@@ -2,4 +2,4 @@ muli muli
 manbo!
 hajimi,hihi~
 Editing in github!
-append a line remotely
+Eliminate conflict
